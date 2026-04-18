@@ -30,4 +30,7 @@ User can choose options:
 4: View Account Information
 <br>
 5: Exit
+<br>
 System updates balance accordingly
+<br>
+~ Just A Mini Atm Project by - Ayan Khan
