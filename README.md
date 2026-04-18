@@ -2,15 +2,15 @@
 
 Login using Account Number and PIN
 <br>
-Check Balance
+accNo. - 1234567890 & pincode - 1234
 <br>
-Deposit Money
+ Check Balance
 <br>
-Withdraw Money
+ Deposit Money
 <br>
-View Account Information
+ Withdraw Money
 <br>
-3 login attempts limit
+ View Account Information
 <br>
 <br>
 # HOW IT WORKS?
@@ -21,12 +21,13 @@ If correct → access granted
 <br>
 User can choose options:
 <br>
-Check balance
+1: Check Balance
 <br>
-Deposit
+2: Deposit Money
 <br>
-Withdraw
+3: Withdraw Money
 <br>
-View account details
+4: View Account Information
 <br>
+5: Exit
 System updates balance accordingly
