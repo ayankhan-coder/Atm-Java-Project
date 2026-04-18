@@ -33,4 +33,5 @@ User can choose options:
 <br>
 System updates balance accordingly
 <br>
-~ Just A Mini Atm Project by - Ayan Khan
+<br>
+    ~ Just A Mini Atm Project by - Ayan Khan
